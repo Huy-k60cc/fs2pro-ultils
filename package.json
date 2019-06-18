@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Huy-k60cc/fs2pro-ultils/issues"
   },
-  "homepage": "https://github.com/Huy-k60cc/fs2pro-ultils#readme"
+  "homepage": "https://github.com/Huy-k60cc/fs2pro-ultils#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "process": "^0.11.10",
+    "request": "^2.88.0"
+  }
 }

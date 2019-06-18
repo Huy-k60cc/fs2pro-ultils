@@ -9,7 +9,7 @@
  */
 
 var path = require('path')
-var Restfulhandler = require(path.resolve(__dirname, '../common/RestfulHandler.js'));
+var Restfulhandler = require('../resfulhandler');
 var Ioutput = require('../iooutput');
 var TAG_FUNCTION = 'BPSHelper'
 

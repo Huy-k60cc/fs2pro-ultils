@@ -8,7 +8,6 @@
  giang.ngo: cac function helper cho log
  */
 var process = require('process');
-var async = require('async');
 const SEPERATE = ', '
 const MAX_LOG_LENGTH = 250;
 var pidinfo = process.pid + '/' + process.ppid;
