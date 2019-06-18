@@ -1,0 +1,19 @@
+{
+  "name": "fs2pro-ultils",
+  "version": "1.0.0",
+  "description": "Ultilities for fs2pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huy-k60cc/fs2pro-ultils.git"
+  },
+  "author": "fss-huynvq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huy-k60cc/fs2pro-ultils/issues"
+  },
+  "homepage": "https://github.com/Huy-k60cc/fs2pro-ultils#readme"
+}
